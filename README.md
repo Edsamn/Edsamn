@@ -1,4 +1,4 @@
-### Olá 👋 eu sou o Edsamn (Eduardo Marinho Silva Ribas) (https://github.com/Edsamn)
+### Olá 👋 eu sou o Edsamn (Eduardo Marinho Silva Ribas)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
