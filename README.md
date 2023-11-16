@@ -41,4 +41,4 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku)
 <br/>
 
-Credit: [Danushka2](https://github.com/Danushka2)
+<!--Credit: [Danushka2](https://github.com/Danushka2)-->
