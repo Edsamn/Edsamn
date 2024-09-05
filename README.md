@@ -37,6 +37,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku)
 ![Neon](https://img.shields.io/badge/-Neon-222222?style=flat-square&logo=neon)
+![Vercel](https://img.shields.io/badge/-Vercel-222222?style=flat-square&logo=vercel)
 <br/>
 
 <!--Credit: [Danushka2](https://github.com/Danushka2)-->
