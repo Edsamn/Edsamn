@@ -22,7 +22,7 @@
 
 ---
 
-##### As tecnologias que eu uso são:
+#### As tecnologias que eu uso são:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
