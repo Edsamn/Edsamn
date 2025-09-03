@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-### Sou estudante da 18ª edição do programa Starter Web Developer FullStack na Growdev  
+### Sou formado pela 18ª edição do programa Starter Web Developer FullStack na Growdev  
 
 - Meus Hobbies favoritos são: jogar no computador, cozinhar, brincar com meus gatos,
                               ver memes e vídeos na internet.
